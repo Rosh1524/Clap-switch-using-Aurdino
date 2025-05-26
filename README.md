@@ -6,4 +6,8 @@ Sound Sensor: : Detects sound variations, particularly claps in this case. When 
 SV Relay Module: Acts as a switch for controlling high-power devices. When the Arduino sends a signal to the relay, it either opens or closes the circuit, turning devices connected to it on or off.
 Jumper Wires: Connect the components, allowing the flow of signals and power in the Arduino Data Cable: Connects the Arduino Uno to your computer for programming. The Arduino Uno can be programmed to respond to specific sound levels detected by the sound sensor circuit.
 
-Uses: • Security System: Use the clap switch to activate/deactivate a security system, such as turning on/off alarms or cameras. • Learning Tool: It serves as a practical project for learning about Arduino programming, sensor integration, and basic electronics. • Power Conservation: Implement the clap switch to control powerhungry devices, helping to save energy when they're not in use. • Home Automation: Integrate the clap switch into a larger home automation system to control various devices or trigger specific actions.
+Uses:
+• Security System: Use the clap switch to activate/deactivate a security system, such as turning on/off alarms or cameras. 
+• Learning Tool: It serves as a practical project for learning about Arduino programming, sensor integration, and basic electronics.
+• Power Conservation: Implement the clap switch to control powerhungry devices, helping to save energy when they're not in use.
+• Home Automation: Integrate the clap switch into a larger home automation system to control various devices or trigger specific actions.
